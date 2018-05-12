@@ -1,0 +1,33 @@
+_repo: Little-Aliens_32581
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kelly, Myra
+    alias: Macnaughton, Mrs. Allan
+    birthdate: 1876
+    deathdate: 1910
+    gutenberg_agent_id: '2137'
+    url: http://www.gutenberg.org/2009/agents/2137
+description: ''
+gutenberg_issued: '2010-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32581'
+  lccn: '10009692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lower East Side (New York, N.Y.) -- Fiction'
+- !lcsh 'Immigrant children -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+- !lcc 'PS'
+tableOfContents: Every goose a swan -- Games in gardens -- A brand from the burning
+  -- Friends -- The magic cape -- Bailey's babies -- The origin of species -- The
+  etiquette of Yetta -- A bent twig.
+title: Little Aliens
+url: http://www.gutenberg.org/ebooks/32581
